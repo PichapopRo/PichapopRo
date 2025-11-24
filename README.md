@@ -39,9 +39,9 @@ Eager to contribute to innovative software projects and continuously improve my 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=OmegaOoh&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=OmegaOoh&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaOoh&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PichapopRo&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=PichapopRo&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PichapopRo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
