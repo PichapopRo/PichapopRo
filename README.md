@@ -47,8 +47,9 @@ Eager to contribute to innovative software projects and continuously improve my 
 
 ## 🚩 Featured Projects
 
-### *(Coming soon…)*  
-Stay tuned for highlighted projects showcasing my work in software development, IoT, data analysis, and full-stack applications.
+### [Personalised Pantry](https://github.com/PichapopRo/project-pantry)
+A webapp where user can browse through each recipe that fits their needs with various filter and assist user in their daily routine.
+- **Tech stack:** Python, Django
 
 ---
 
