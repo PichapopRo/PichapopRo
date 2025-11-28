@@ -47,9 +47,22 @@ Eager to contribute to innovative software projects and continuously improve my 
 
 ## 🚩 Featured Projects
 
+### [KU-Company (Frontend)](https://github.com/ku-company/ku-company-frontend)
+### [KU-Company (Backend)](https://github.com/ku-company/ku-company-backend)
+A centralized platform connecting students, companies, and professors. The system helps students find jobs and internships more easily, helps companies to recruit interns, and allows professors to share professional connections for CPE and SKE students.
+- **Tech stack:** ExpressJS, NextJS, PostgresSQL, Prisma, TypeScript
+
+### [Weather Laundry](https://github.com/SariyaP/weather_laundry)
+This project helps users determine the best time to do laundry by analyzing real-time weather conditions. This program will predict whether it's an optimal day to hang clothes outside and will reduce the risk of rain ruining the freshly washed clothes.
+- **Tech stack:** Flask, Python, OpenAPI/Swagger, JavaScript, HTML/CSS, TailwindCSS, GraphQL, ChartJS
+
 ### [Personalised Pantry](https://github.com/PichapopRo/project-pantry)
 A webapp where user can browse through each recipe that fits their needs with various filter and assist user in their daily routine.
-- **Tech stack:** Python, Django
+- **Tech stack:** Django, PostgresSQL, SQLite, HTML/CSS, JavaScript, Bootstrap
+
+### [Community Tutuition](https://github.com/PichapopRo/community-tutor)
+This recipe application aims to help people who want to learn skills that are commonly used in households such as gardening or cooking.
+- **Tech stack:** Django, PostgresSQL, SQLite, HTML/CSS, JavaScript, Bootstrap
 
 ---
 
